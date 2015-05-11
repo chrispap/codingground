@@ -1,1 +1,1 @@
-{"id":"c","ext":"c","version":"GNU GCC v4.8.3","compile":"gcc -o main *.c -lm","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.c","url":"compile_c_online.php","mode":"c_cpp"}
+{"id":"c","ext":"c","version":"GNU GCC v4.8.3","compile":"gcc -o askisi1.exe askisi1.c -lm","execute":"askisi1.exe","preview":"","command":"","file":"/home/cg/src/samples/askisi1.c","url":"compile_c_online.php","mode":"c_cpp"}
